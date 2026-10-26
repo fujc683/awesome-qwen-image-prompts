@@ -9,6 +9,8 @@
 [English](README.md) | [简体中文](README_zh.md) | [日本語](README_ja.md)
 
 **[👉 Generate with Qwen-Image 2.1 on APIMart · apimart.ai/model/qwen-image-2](https://gola.apimart.ai/k-ZltbL1)**
+
+`https://gola.apimart.ai/k-ZltbL1`
 [💰 Pricing](https://gola.apimart.ai/k-6uo0HF) · [🔑 Get an API key](https://gola.apimart.ai/k-iqrUDZ)
 
 
@@ -35,7 +37,7 @@ Qwen-Image 2.1 is known for bilingual text rendering and Asian aesthetics. This 
 
 - **252** prompts in this collection
 - **9** Category
-- Last updated: 2026-10-26
+- Last updated: 2026-10-20
 - apimart.ai/model/qwen-image-2
 
 ## Browse by Category

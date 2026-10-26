@@ -9,6 +9,8 @@
 [English](README.md) | [简体中文](README_zh.md) | [日本語](README_ja.md)
 
 **[👉 在 APIMart 上用 Qwen-Image 2.1 生成 · apimart.ai/model/qwen-image-2](https://gola.apimart.ai/k-ZltbL1)**
+
+`https://gola.apimart.ai/k-ZltbL1`
 [💰 Pricing](https://gola.apimart.ai/k-6uo0HF) · [🔑 Get an API key](https://gola.apimart.ai/k-iqrUDZ)
 
 
