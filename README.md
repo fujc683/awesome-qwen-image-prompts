@@ -37,7 +37,7 @@ Qwen-Image 2.1 is known for bilingual text rendering and Asian aesthetics. This 
 
 - **252** prompts in this collection
 - **9** Category
-- Last updated: 2026-10-26
+- Last updated: 2026-10-27
 - apimart.ai/model/qwen-image-2
 
 ## Browse by Category
